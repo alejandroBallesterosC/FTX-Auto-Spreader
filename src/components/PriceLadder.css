@@ -1,0 +1,32 @@
+
+
+.ask{
+    background-color: rgb(205, 92, 92);
+    height: 30px;
+}
+.bid{
+    background-color: rgb(135, 206, 250);
+    height: 30px;
+}
+.divider{
+    background-color:black;
+    height: 5px;
+}
+.price{
+    font-weight:bolder;
+    background-color:darkgray;
+}
+.quantity{
+    font-weight:normal;
+}
+
+td{
+    border: 1px solid black;
+}
+
+table{
+    border-collapse: collapse
+}
+.product-header{
+    background-color:grey;
+}
